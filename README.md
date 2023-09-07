@@ -1,29 +1,22 @@
-### Hi there 👋
 
-<!--
-**LaGuarichona/LaGuarichona** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+# Hi there!👋 I'm Marly 
+**Welcome to my GitHub profile ✨**.
 
-Here are some ideas to get you started:
+- 🚀 After three years working as a **Mechanical Engineer** in the heavy machinery industry, motivated by various factors, including the desire to express my creativity in my work activities, I decided to redirect my career towards **Frontend Development**.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
+- 👩‍💻 I have been working on several personal projects involving **CSS, JavaScript, and ReactJS**, which you can explore here on my GitHub profile.
 
-# Hi, I’m David Castro
+- 🌱 Currently, I am learning **PHP** and strengthening my knowledge.
 
-<img width=256 align="right" src="https://github.com/davidcasr/davidcasr/blob/master/img/mini-me.png?raw=true" />
+- 🤔 I’m looking for help with [Nazhir González Edbaissi](https://github.com/nazhG) and [Oscar Barajas](https://github.com/gndx).
 
-I am a **Software Engineer** with a master's degree in Software Development. I currently work as **Backend Developer** using Python. I have developed native applications with Android and nowadays I write in [Medium](https://davidcasr.medium.com/) about my experiencie with some technologies.
+- 😄 Pronouns: guarichona.
 
-- 👨‍🚀 I'm currently working as **Backend Developer** 
-- 🌱 I'm currently learning about **Data Engineer**
-- 👨‍💻 I worked in the backend with: **Python & Django, PHP & Laravel**
-- 💬 Ask me about software development and business or research ideas 
-- 📫 How to reach me: [email](mailto:me@davidcasr.co)
-- 🚀 He is mini-me and he also enjoys programming
--->
+- 📬 You can find me at: 
+  [linkedin](www.linkedin.com/in/laguarichona)
+  [email](r.marlyp@gmail.com)
+
+I hope to connect with you and be part of your Frontend Development Team! 🤝
+
+#OpenToWork"
+
