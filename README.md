@@ -8,7 +8,7 @@
 
 - 🌱 Currently, I am strengthening my knowledge.
 
-- 🤔 I’m looking for help with [Nazhir González Edbaissi](https://github.com/nazhG) and [Oscar Barajas](https://github.com/gndx).
+- 🤔 I’m looking for help with [Nazhir Edbaissi](https://github.com/nazhG) and [Oscar Barajas](https://github.com/gndx).
 
 - 😄 Nick: guarichona.
 
