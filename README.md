@@ -18,5 +18,5 @@
 
 I hope to connect with you and be part of your Frontend Development Team! 🤝
 
-#OpenToWork"
+#OpenToWork
 
