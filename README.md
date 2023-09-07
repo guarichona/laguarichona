@@ -6,11 +6,11 @@
 
 - 👩‍💻 I have been working on several personal projects involving **CSS, JavaScript, and ReactJS**, which you can explore here on my GitHub profile.
 
-- 🌱 Currently, I am learning **PHP** and strengthening my knowledge.
+- 🌱 Currently, I am strengthening my knowledge.
 
 - 🤔 I’m looking for help with [Nazhir González Edbaissi](https://github.com/nazhG) and [Oscar Barajas](https://github.com/gndx).
 
-- 😄 Pronouns: guarichona.
+- 😄 Nick: guarichona.
 
 - 📬 You can find me at: 
   [linkedin](www.linkedin.com/in/laguarichona)
