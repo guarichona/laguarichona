@@ -13,8 +13,8 @@
 - 😄 Nick: guarichona.
 
 - 📬 You can find me at: 
-  [linkedin](www.linkedin.com/in/laguarichona)
-  [email](r.marlyp@gmail.com)
+  [linkedin](https://www.linkedin.com/in/laguarichona)
+  [email](mailto:r.marlyp@gmail.com)
 
 I hope to connect with you and be part of your Frontend Development Team! 🤝
 
