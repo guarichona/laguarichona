@@ -1,5 +1,8 @@
 
 # Hi there!👋 I'm Marly 
+
+<img width=256 align="https://github.com/laguarichona/LaGuarichona/blob/main/Monita%20Marly%20galleta.png?raw=true"/>
+
 **Welcome to my GitHub profile ✨**.
 
 - 🚀 After three years working as a **Mechanical Engineer** in the heavy machinery industry, motivated by various factors, including the desire to express my creativity in my work activities, I decided to redirect my career towards **Frontend Development**.
