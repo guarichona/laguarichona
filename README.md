@@ -22,3 +22,4 @@
 I hope to connect with you and be part of your Frontend Development Team! 🤝
 
 #OpenToWork
+##### 👏 Special thanks to [Annichilare] for creating my virtual monkey.
